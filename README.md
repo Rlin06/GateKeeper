@@ -1,2 +1,2 @@
 # gatekeeper
-Non-invasive RFID Door Opener
+A non-invasive RFID door opener with mobile phone integration.
